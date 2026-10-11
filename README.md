@@ -73,7 +73,7 @@ src/Renderer.h/.cpp   — raycaster (стены + спрайты + z-buffer)
 src/Textures.h/.cpp   — процедурные текстуры
 src/Game.h/.cpp       — игровой цикл, процедурная генерация, HUD
 src/main.cpp          — точка входа
-src/sound.h/cpp       — музычка ^_^
+src/audio.h/cpp       — музычка ^_^
 ```
 
 ## Как поменять версию raylib
