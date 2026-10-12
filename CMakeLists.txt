@@ -55,7 +55,7 @@ add_executable(idk
 target_include_directories(idk PRIVATE src)
 target_link_libraries(idk PRIVATE raylib)
 target_link_options(idk PRIVATE
-    -static-libgcc -static-libstdc++)
+    -static -static-libgcc -static-libstdc++)
 
 if(MSVC)
     target_compile_options(idk PRIVATE /W4)
