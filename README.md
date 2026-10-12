@@ -1,5 +1,5 @@
 # Doom-style Raycaster (C++17 + raylib)
-IF YOU ENGLISH SPEAK, PLEASE FOLOW THE [READMEen.md](README on english)
+IF YOU ENGLISH SPEAK, PLEASE FOLOW THE [README on english](READMEen.md)
 
 Псевдо-3D стрелялка в духе Doom/Wolfenstein, написанная с нуля на C++17.
 Рендер — классический raycaster (DDA) с текстурированными стенами и
